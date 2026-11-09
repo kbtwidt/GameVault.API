@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../GameVault.WPF/GameVault.WPF.csproj" />
   <Project Path="GameVault.API.csproj" />
+  <Project Path="GameVault.WPF/GameVault.WPF.csproj" />
 </Solution>
